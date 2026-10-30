@@ -1,4 +1,4 @@
-# Germany Electricity Dashboard (2020–2025)
+# Germany SolarPV Power Dashboard (2020–2025)
 
 A Power BI dashboard exploring Germany's actual electricity generation and day-ahead wholesale electricity prices in the Germany/Luxembourg (DE/LU) bidding zone, based on hourly data for 2020–2025.
 
